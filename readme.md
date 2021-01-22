@@ -4,4 +4,6 @@ My stupid boss still prefers SVN.
 
 Creating a new branch is quick.
 
-t.kro@outlook.com
+email:t.kro@outlook.com
+
+name:Tang.Kalman 
